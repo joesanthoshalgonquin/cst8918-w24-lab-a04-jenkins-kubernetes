@@ -5,4 +5,4 @@ Prof: Robert McKenney
 
 ## Screenshot
 
-[plot!](./job_run_status-jenkins.png)
+![plot](./job_run_status-jenkins.png)
